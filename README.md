@@ -66,3 +66,9 @@ pip3 install ipykernel
 3. Verify you're running within the virtual environment like so: `pip -V`
 
 # Handling Dependencies, Collaboration and Github
+
+### Install sample dependencies inside of virtual environment
+
+```
+pip install -r reqs.txt
+```
