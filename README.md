@@ -1,5 +1,10 @@
 # Debugging and Setting Up Jupyter Notebooks on Mac OS Within VSCode
 
+- [Setting Up The Environment](#setting-up-the-environment)
+- [Using Virtual Environments in Jupyter Notebook and Python](#using-virtual-environments-in-jupyter-notebook-and-python)
+    + [Create Virtual Environment with Virtualenv/venv](#create-virtual-environment-with-virtualenv-venv)
+    + [Handling Dependencies, Collaboration and Github](#handling-dependencies--collaboration-and-github)
+
 # Setting Up The Environment
 
 We want to standarize which versions of Python we're running, we can do that using `pyenv`. 
